@@ -44,7 +44,7 @@
     padding-top: 90px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/power.png) no-repeat  #4285F4; 
+    background: url(assets/img/power.png) no-repeat  #4285F4; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -54,7 +54,7 @@
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/power.png) no-repeat  #4285F4;
+      background: url(assets/img/power.png) no-repeat  #4285F4;
       background-position: top 10% center;
   
 }
@@ -71,7 +71,7 @@ justify-content: center;
     padding-top: 100px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/Frame.png) no-repeat  #F44242; 
+    background: url(assets/img/Frame.png) no-repeat  #F44242; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -81,7 +81,7 @@ justify-content: center;
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/Frame.png) no-repeat  #F44242;
+      background: url(assets/img/Frame.png) no-repeat  #F44242;
       background-position: top 10% center;
   
 }
@@ -107,7 +107,7 @@ justify-content: center;
     padding-top: 80px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/battery.png) no-repeat  #F44242; 
+    background: url(assets/img/battery.png) no-repeat  #F44242; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -117,7 +117,7 @@ justify-content: center;
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/battery.png) no-repeat  #F44242;
+      background: url(assets/img/battery.png) no-repeat  #F44242;
       background-position: top 10% center;
   
 }
@@ -136,7 +136,7 @@ justify-content: center;
     padding-top: 90px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/generator.png) no-repeat  #4285F4; 
+    background: url(assets/img/generator.png) no-repeat  #4285F4; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -146,7 +146,7 @@ justify-content: center;
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/generator.png) no-repeat  #4285F4;
+      background: url(assets/img/generator.png) no-repeat  #4285F4;
       background-position: top 10% center;
   
 }
@@ -171,7 +171,7 @@ justify-content: center;
     padding-top: 90px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/tools-and-utensils.png) no-repeat  #4285F4; 
+    background: url(assets/img/tools-and-utensils.png) no-repeat  #4285F4; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -181,7 +181,7 @@ justify-content: center;
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/tools-and-utensils.png) no-repeat  #4285F4;
+      background: url(assets/img/tools-and-utensils.png) no-repeat  #4285F4;
       background-position: top 10% center;
   
 }
@@ -198,7 +198,7 @@ justify-content: center;
     padding-top: 20px;
     display: flex;
     flex-direction: column;
-    background: url(/assets/img/airbrush\ \(1\).png) no-repeat  #F44242; 
+    background: url(assets/img/airbrush\ \(1\).png) no-repeat  #F44242; 
     background-position: top 10% center;
     overflow:hidden;
 }
@@ -208,7 +208,7 @@ justify-content: center;
     flex-direction: column;
      content: " ";
      cursor: pointer;
-      background: url(/assets/img/airbrush\ \(1\).png) no-repeat  #F44242;
+      background: url(assets/img/airbrush\ \(1\).png) no-repeat  #F44242;
       background-position: top 10% center;
   
 }
