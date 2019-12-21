@@ -1,0 +1,271 @@
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+   
+    .wrapper {
+    flex-wrap: wrap;
+    
+}
+.column {
+    flex-wrap: wrap;
+}
+.bl {
+    
+   width: 100%;
+   padding: 0;
+   align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.logo img {
+    padding: 0;
+}
+
+
+.one-left {
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/power.png) no-repeat  #4285F4; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.one-left:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/power.png) no-repeat  #4285F4;
+      background-position: top 10% center;
+  
+}
+
+.one-left p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+
+.two-left {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/Frame.png) no-repeat  #F44242; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.two-left:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/Frame.png) no-repeat  #F44242;
+      background-position: top 10% center;
+  
+}
+
+
+
+.two-left p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+.one-middle p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+
+.one-middle {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/battery.png) no-repeat  #F44242; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.one-middle:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/battery.png) no-repeat  #F44242;
+      background-position: top 10% center;
+  
+}
+
+
+.one-middle p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+
+
+.one-right {
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/generator.png) no-repeat  #4285F4; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.one-right:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/generator.png) no-repeat  #4285F4;
+      background-position: top 10% center;
+  
+}
+
+.one-right p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+
+
+.two-middle p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+.two-middle {
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/tools-and-utensils.png) no-repeat  #4285F4; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.two-middle:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/tools-and-utensils.png) no-repeat  #4285F4;
+      background-position: top 10% center;
+  
+}
+
+
+.two-right p:hover {
+    display: flex;
+    align-items: center;
+justify-content: center;
+  width: 100%;
+}
+
+.two-right {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/airbrush\ \(1\).png) no-repeat  #F44242; 
+    background-position: top 10% center;
+    overflow:hidden;
+}
+.two-right:hover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     content: " ";
+     cursor: pointer;
+      background: url(/assets/img/airbrush\ \(1\).png) no-repeat  #F44242;
+      background-position: top 10% center;
+  
+}
+
+
+
+
+
+
+.nav {
+    display: none;
+}
+.search-menu {
+    display: none;
+}
+.bottom-left {
+    display: none;
+}
+.bottom-middle {
+    background-color: #ffffff;
+    opacity: 1;
+}
+.bottom-middle 
+p {
+   
+   opacity: 1;
+   color: black;
+}
+
+
+.bottom-right {
+    display: none;
+}
+
+
+
+/* search */
+.main-section{
+    
+    left: 5%;
+    top: 2%;
+  }
+
+
+
+
+}
+
+
+
+@media (max-width: 650) {
+
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+
+}
+
+
