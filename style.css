@@ -24,22 +24,22 @@ body {
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
-    src: url('/assets/fonts/Rubik.woff') format('woff'); /* IE9 Compat Modes */
+    src: url('assets/fonts/Rubik.woff') format('woff'); /* IE9 Compat Modes */
     src: local('Rubik'), local('Rubik'),  
   }
   @font-face {
     font-family: 'Rubik-Light';
     font-style: normal;
     font-weight: 400;
-    src: url('/assets/fonts/Rubik-Light.woff') format('woff'); /* IE9 Compat Modes */
+    src: url('assets/fonts/Rubik-Light.woff') format('woff'); /* IE9 Compat Modes */
     src: local('Rubik-Light'), local('Rubik-Light'),  
   }
 
 .wrapper {
     width: 100%;
     height: 100vh;
-    /* background: url(/assets/img/background.png) no-repeat;
-    background-size: auto; */
+    background: url(assets/img/background.png) no-repeat;
+    background-size: auto;
    
 }
 
@@ -130,7 +130,7 @@ opacity: 1;
 
    content: " ";
    cursor: pointer;
-    background: url(/assets/img/power.png) no-repeat  #4285F4;
+    background: url(assets/img/power.png) no-repeat  #4285F4;
     background-position: right 5% bottom 40%;
 }
 
@@ -158,7 +158,7 @@ opacity: 1;
     
        content: " ";
        cursor: pointer;
-        background: url(/assets/img/Frame.png) no-repeat  #F44242;
+        background: url(assets/img/Frame.png) no-repeat  #F44242;
         background-position: right 5% bottom 40%;
     }
     
@@ -187,7 +187,7 @@ opacity: 1;
          
            content: " ";
            cursor: pointer;
-            background: url(/assets/img/battery.png) no-repeat  #4285F4;
+            background: url(assets/img/battery.png) no-repeat  #4285F4;
             background-position: right 5% bottom 40%;
         }
 
@@ -216,7 +216,7 @@ opacity: 1;
         
            content: " ";
            cursor: pointer;
-            background: url(/assets/img/airbrush\ \(1\).png) no-repeat  #F44242;
+            background: url(assets/img/airbrush\ \(1\).png) no-repeat  #F44242;
             background-position: right 5% bottom 40%;
         }
 
@@ -245,7 +245,7 @@ opacity: 1;
              
                content: " ";
                cursor: pointer;
-                background: url(/assets/img/generator.png) no-repeat  #4285F4;
+                background: url(assets/img/generator.png) no-repeat  #4285F4;
                 background-position: right 5% bottom 40%;
             }
     
@@ -268,7 +268,7 @@ opacity: 1;
               flex-direction: column;
                content: " ";
                cursor: pointer;
-                background: url(/assets/img/tools-and-utensils.png) no-repeat  #F44242;
+                background: url(assets/img/tools-and-utensils.png) no-repeat  #F44242;
                 background-position: right 5% bottom 40%;
             }
 
